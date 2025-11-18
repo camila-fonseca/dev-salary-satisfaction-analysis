@@ -3,7 +3,6 @@
 </p>
 <br>
 
-# Developer Salary & Job Satisfaction Analysis  
 📊 **Data Science Project — Stack Overflow Developer Survey**
 
 This project analyzes global developer compensation and job satisfaction using the Stack Overflow Developer Survey.  
