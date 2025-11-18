@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="github-banner.png" alt="Developer Salary & Job Satisfaction Analysis Banner" width="100%">
+</p>
+<br>
+
 # Developer Salary & Job Satisfaction Analysis  
 📊 **Data Science Project — Stack Overflow Developer Survey**
 
@@ -65,7 +70,7 @@ The original **survey.csv** file (≈134 MB) is **not included** in this reposit
 
 ### 📥 How to Get the Data
 
-1. Download the dataset from the **Stack Overflow Developer Survey** website.  
+1. Download the dataset from the **[Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co)**.  
 2. Place the file inside the `data/` folder as:
 
 ```
