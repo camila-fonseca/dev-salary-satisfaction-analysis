@@ -44,7 +44,7 @@ dev-salary-satisfaction-analysis/
 ├── notebook/
 │   └── data-science-project-dev-salary-satisfaction-analysis.ipynb
 │
-├── src/                               # Modularized code (optional for scaling project)
+├── src/                               # Modularized code
 │   ├── preprocessing.py
 │   ├── eda.py
 │   ├── modeling_salary.py
