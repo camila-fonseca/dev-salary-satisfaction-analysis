@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-banner.png" alt="Developer Salary & Job Satisfaction Analysis Banner" width="100%">
+  <img src="github-banner.png" alt="Stack Overflow Survey 2025 – Dev Salary & Job Satisfaction Analysis" width="100%">
 </p>
 <br>
 
