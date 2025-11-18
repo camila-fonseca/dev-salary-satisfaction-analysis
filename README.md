@@ -65,7 +65,7 @@ The original **survey.csv** file (≈134 MB) is **not included** in this reposit
 
 ### 📥 How to Get the Data
 
-1. Download the dataset from **[Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025/)**.  
+1. Download the dataset from **[Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co)**.  
 2. Place the file inside the `data/` folder as:
 
 ```
