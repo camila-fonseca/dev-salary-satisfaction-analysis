@@ -1,0 +1,4 @@
+term,coef_log,impact_%_vs_ref,p_value
+log1p(Work Experience),0.1498,16.2,0.0
+People Manager (1) vs IC (0),-0.1584,-14.6,0.0006
+Remote work (1 vs 0),0.1874,20.6,0.0557

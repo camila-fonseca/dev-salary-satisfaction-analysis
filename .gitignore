@@ -1,0 +1,18 @@
+# LARGE FILES - GITHUB LIMIT 100MB
+data/survey.csv
+
+# PYTHON
+__pycache__/
+*.py[cod]
+
+# VIRTUAL ENVIRONMENTS
+.env
+.venv
+venv/
+
+# JUPYTER NOTEBOOK
+.ipynb_checkpoints
+
+# SYSTEM
+.DS_Store
+Thumbs.db

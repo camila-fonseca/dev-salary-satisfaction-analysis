@@ -1,0 +1,5 @@
+{
+  "term": "RemoteWork_bin (1 vs 0)",
+  "impact_%_vs_ref": 25.1,
+  "description": "Estimated % impact of remote work on log salary, controlling for Country and WorkExp."
+}

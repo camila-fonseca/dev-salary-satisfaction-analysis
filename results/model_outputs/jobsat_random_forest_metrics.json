@@ -1,0 +1,9 @@
+{
+  "model": "RandomForestClassifier",
+  "threshold": 0.5,
+  "accuracy": 0.552,
+  "precision": 0.556,
+  "recall": 0.57,
+  "f1": 0.563,
+  "roc_auc": 0.575
+}

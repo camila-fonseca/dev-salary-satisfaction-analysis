@@ -1,0 +1,171 @@
+column,dtype,non_null,missing,missing_pct
+ResponseId,int64,49123,0,0.0
+MainBranch,object,49123,0,0.0
+Age,object,49123,0,0.0
+EdLevel,object,48087,1036,2.11
+Employment,object,48277,846,1.72
+EmploymentAddl,object,44820,4303,8.76
+WorkExp,float64,42844,6279,12.78
+LearnCodeChoose,object,46801,2322,4.73
+LearnCode,object,33516,15607,31.77
+LearnCodeAI,object,45153,3970,8.08
+AILearnHow,object,28224,20899,42.54
+YearsCode,float64,43000,6123,12.46
+DevType,object,43636,5487,11.17
+OrgSize,object,34144,14979,30.49
+ICorPM,object,33211,15912,32.39
+RemoteWork,object,33747,15376,31.3
+PurchaseInfluence,object,37402,11721,23.86
+TechEndorseIntro,object,37520,11603,23.62
+TechEndorse_1,float64,35943,13180,26.83
+TechEndorse_2,float64,35943,13180,26.83
+TechEndorse_3,float64,35943,13180,26.83
+TechEndorse_4,float64,35943,13180,26.83
+TechEndorse_5,float64,35943,13180,26.83
+TechEndorse_6,float64,35943,13180,26.83
+TechEndorse_7,float64,35943,13180,26.83
+TechEndorse_8,float64,35943,13180,26.83
+TechEndorse_9,float64,35943,13180,26.83
+TechEndorse_13,float64,35943,13180,26.83
+TechEndorse_13_TEXT,object,2008,47115,95.91
+TechOppose_1,float64,34227,14896,30.32
+TechOppose_2,float64,34227,14896,30.32
+TechOppose_3,float64,34227,14896,30.32
+TechOppose_5,float64,34227,14896,30.32
+TechOppose_7,float64,34227,14896,30.32
+TechOppose_9,float64,34227,14896,30.32
+TechOppose_11,float64,34227,14896,30.32
+TechOppose_13,float64,34227,14896,30.32
+TechOppose_16,float64,34227,14896,30.32
+TechOppose_15,float64,34227,14896,30.32
+TechOppose_15_TEXT,object,1646,47477,96.65
+Industry,object,33607,15516,31.59
+JobSatPoints_1,float64,24917,24206,49.28
+JobSatPoints_4,float64,24917,24206,49.28
+JobSatPoints_5,float64,24917,24206,49.28
+JobSatPoints_6,float64,24917,24206,49.28
+JobSatPoints_7,float64,24917,24206,49.28
+JobSatPoints_8,float64,24917,24206,49.28
+JobSatPoints_9,float64,24917,24206,49.28
+JobSatPoints_10,float64,24917,24206,49.28
+JobSatPoints_11,float64,24917,24206,49.28
+JobSatPoints_13,float64,24917,24206,49.28
+JobSatPoints_14,float64,24917,24206,49.28
+JobSatPoints_15,float64,24917,24206,49.28
+JobSatPoints_16,float64,24917,24206,49.28
+JobSatPoints_15_TEXT,object,664,48459,98.65
+AIThreat,object,36041,13082,26.63
+NewRole,object,35491,13632,27.75
+ToolCountWork,float64,27582,21541,43.85
+ToolCountPersonal,float64,25555,23568,47.98
+Country,object,35402,13721,27.93
+Currency,object,35402,13721,27.93
+CompTotal,float64,24839,24284,49.44
+LanguageChoice,object,32185,16938,34.48
+LanguageHaveWorkedWith,object,31643,17480,35.58
+LanguageWantToWorkWith,object,27054,22069,44.93
+LanguageAdmired,object,23447,25676,52.27
+LanguagesHaveEntry,object,3976,45147,91.91
+LanguagesWantEntry,object,3145,45978,93.6
+DatabaseChoice,object,31659,17464,35.55
+DatabaseHaveWorkedWith,object,25528,23595,48.03
+DatabaseWantToWorkWith,object,19718,29405,59.86
+DatabaseAdmired,object,17282,31841,64.82
+DatabaseHaveEntry,object,2149,46974,95.63
+DatabaseWantEntry,object,1528,47595,96.89
+PlatformChoice,object,31233,17890,36.42
+PlatformHaveWorkedWith,object,24234,24889,50.67
+PlatformWantToWorkWith,object,19396,29727,60.52
+PlatformAdmired,object,17804,31319,63.76
+PlatformHaveEntry,object,3952,45171,91.95
+PlatformWantEntry,object,3096,46027,93.7
+WebframeChoice,object,31164,17959,36.56
+WebframeHaveWorkedWith,object,22970,26153,53.24
+WebframeWantToWorkWith,object,17623,31500,64.12
+WebframeAdmired,object,15697,33426,68.05
+WebframeHaveEntry,object,3292,45831,93.3
+WebframeWantEntry,object,2628,46495,94.65
+DevEnvsChoice,object,31051,18072,36.79
+DevEnvsHaveWorkedWith,object,25994,23129,47.08
+DevEnvsWantToWorkWith,object,20592,28531,58.08
+DevEnvsAdmired,object,19470,29653,60.36
+DevEnvHaveEntry,object,2760,46363,94.38
+DevEnvWantEntry,object,2110,47013,95.7
+SOTagsHaveWorkedWith,object,17906,31217,63.55
+SOTagsWantToWorkWith,object,13576,35547,72.36
+SOTagsAdmired,object,12229,36894,75.11
+SOTagsHaveEntry,object,459,48664,99.07
+SOTagsWant Entry,object,432,48691,99.12
+OpSysPersonal use,object,31388,17735,36.1
+OpSysProfessional use,object,28858,20265,41.25
+OfficeStackAsyncHaveWorkedWith,object,29830,19293,39.27
+OfficeStackAsyncWantToWorkWith,object,23183,25940,52.81
+OfficeStackAsyncAdmired,object,22185,26938,54.84
+OfficeStackHaveEntry,object,2590,46533,94.73
+OfficeStackWantEntry,object,1620,47503,96.7
+CommPlatformHaveWorkedWith,object,30038,19085,38.85
+CommPlatformWantToWorkWith,object,23330,25793,52.51
+CommPlatformAdmired,object,22856,26267,53.47
+CommPlatformHaveEntr,object,1478,47645,96.99
+CommPlatformWantEntr,object,1186,47937,97.59
+AIModelsChoice,object,30210,18913,38.5
+AIModelsHaveWorkedWith,object,16261,32862,66.9
+AIModelsWantToWorkWith,object,11832,37291,75.91
+AIModelsAdmired,object,11272,37851,77.05
+AIModelsHaveEntry,object,777,48346,98.42
+AIModelsWantEntry,object,476,48647,99.03
+SOAccount,object,32767,16356,33.3
+SOVisitFreq,object,32680,16443,33.47
+SODuration,object,32597,16526,33.64
+SOPartFreq,object,32200,16923,34.45
+SO_Dev_Content,object,22820,26303,53.55
+SO_Actions_1,float64,26241,22882,46.58
+SO_Actions_16,float64,24321,24802,50.49
+SO_Actions_3,float64,26241,22882,46.58
+SO_Actions_4,float64,26241,22882,46.58
+SO_Actions_5,float64,26241,22882,46.58
+SO_Actions_6,float64,26241,22882,46.58
+SO_Actions_9,float64,26241,22882,46.58
+SO_Actions_7,float64,26241,22882,46.58
+SO_Actions_10,float64,26241,22882,46.58
+SO_Actions_15,float64,26241,22882,46.58
+SO_Actions_15_TEXT,object,826,48297,98.32
+SOComm,object,31678,17445,35.51
+SOFriction,object,30763,18360,37.38
+AISelect,object,33686,15437,31.43
+AISent,object,33434,15689,31.94
+AIAcc,object,33264,15859,32.28
+AIComplex,object,33250,15873,32.31
+AIToolCurrently partially AI,object,21003,28120,57.24
+AIToolDon't plan to use AI for this task,object,25358,23765,48.38
+AIToolPlan to partially use AI,object,22531,26592,54.13
+AIToolPlan to mostly use AI,object,12801,36322,73.94
+AIToolCurrently mostly AI,object,11210,37913,77.18
+AIFrustration,object,31491,17632,35.89
+AIExplain,object,26566,22557,45.92
+AIAgents,object,31890,17233,35.08
+AIAgentChange,object,31647,17476,35.58
+AIAgent_Uses,object,12307,36816,74.95
+AgentUsesGeneral,object,5800,43323,88.19
+AIAgentImpactSomewhat agree,object,10135,38988,79.37
+AIAgentImpactNeutral,object,9665,39458,80.32
+AIAgentImpactSomewhat disagree,object,5784,43339,88.23
+AIAgentImpactStrongly agree,object,6682,42441,86.4
+AIAgentImpactStrongly disagree,object,3776,45347,92.31
+AIAgentChallengesNeutral,object,21279,27844,56.68
+AIAgentChallengesSomewhat disagree,object,12116,37007,75.34
+AIAgentChallengesStrongly agree,object,23082,26041,53.01
+AIAgentChallengesSomewhat agree,object,21927,27196,55.36
+AIAgentChallengesStrongly disagree,object,9305,39818,81.06
+AIAgentKnowledge,object,3400,45723,93.08
+AIAgentKnowWrite,object,766,48357,98.44
+AIAgentOrchestration,object,3760,45363,92.35
+AIAgentOrchWrite,object,479,48644,99.02
+AIAgentObserveSecure,object,2691,46432,94.52
+AIAgentObsWrite,object,269,48854,99.45
+AIAgentExternal,object,8326,40797,83.05
+AIAgentExtWrite,object,860,48263,98.25
+AIHuman,object,29167,19956,40.62
+AIOpen,object,22531,26592,54.13
+ConvertedCompYearly,float64,23928,25195,51.29
+JobSat,float64,26643,22480,45.76

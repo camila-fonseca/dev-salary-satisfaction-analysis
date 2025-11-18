@@ -1,0 +1,13 @@
+industry,coef_log,impact_%_vs_ref
+Industry_Fintech,0.128042,13.7
+Industry_Media & Advertising Services,-0.024,-2.4
+"Industry_Internet, Telecom or Information Services",-0.0264,-2.6
+Industry_Retail and Consumer Services,-0.0303,-3.3
+Industry_Computer Systems Design and Services,-0.0334,-3.3
+"Industry_Transportation, or Supply Chain",-0.0444,-4.4
+Industry_Software Development,-0.0556,-5.5
+Industry_Insurance,-0.0658,-6.4
+Industry_Energy,-0.0737,-7.1
+Industry_Healthcare,-0.0835,-8.0
+Industry_Other,-0.0966,-9.2
+Industry_Government,-0.2203,-19.8

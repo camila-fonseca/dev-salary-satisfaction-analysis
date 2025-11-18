@@ -1,0 +1,4 @@
+{
+  "baseline_accuracy": 0.506,
+  "description": "Proportion of the majority class in JobSat_bin (baseline)."
+}

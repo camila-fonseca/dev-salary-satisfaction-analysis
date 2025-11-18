@@ -1,0 +1,9 @@
+EdLevel,EdLevel_ord,EdLevel_is_other
+Primary/elementary school,0,0
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",1,0
+Some college/university study without earning a degree,2,0
+"Associate degree (A.A., A.S., etc.)",3,0
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",4,0
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",5,0
+"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",6,0
+Other (please specify):,7,1

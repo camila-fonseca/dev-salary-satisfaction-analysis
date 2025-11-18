@@ -1,0 +1,8 @@
+{
+  "Ridge": 0.5788,
+  "Lasso": 0.5431,
+  "RandomForest": 0.6033,
+  "HistGradientBoosting": 0.6304,
+  "metric": "mean R2 (CV)",
+  "note": "Values taken from 3-fold cross-validation on log salary."
+}

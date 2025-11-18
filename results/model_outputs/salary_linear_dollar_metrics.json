@@ -1,0 +1,6 @@
+{
+  "target_scale": "dollar",
+  "mae": 31598,
+  "r2": 0.4731,
+  "description": "Linear regression metrics converted back to dollar scale."
+}
