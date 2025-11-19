@@ -3,7 +3,9 @@
 </p>
 <br>
 
-📊 **Data Science Project — Stack Overflow Developer Survey**
+# Developer Salary & Job Satisfaction Analysis
+
+**Data Science Project — Stack Overflow Developer Survey**
 
 This project analyzes global developer compensation and job satisfaction using the Stack Overflow Developer Survey.  
 The goal is to identify which factors significantly influence annual salary and the likelihood of high job satisfaction (JobSat ≥ 8).
@@ -12,7 +14,7 @@ The analysis follows a CRISP-DM workflow and includes data cleaning, feature eng
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 This study investigates four central questions:
 
@@ -23,7 +25,7 @@ This study investigates four central questions:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3**
 - pandas, numpy  
@@ -34,7 +36,7 @@ This study investigates four central questions:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 dev-salary-satisfaction-analysis/
@@ -63,11 +65,11 @@ dev-salary-satisfaction-analysis/
 
 ---
 
-## 📂 Dataset Information
+## Dataset Information
 
 The original **survey.csv** file (≈134 MB) is **not included** in this repository due to GitHub's file size limits.
 
-### 📥 How to Get the Data
+### How to Get the Data
 
 
 1. Download the dataset from **[Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co)**.  
@@ -86,7 +88,7 @@ data_path = "../data/survey.csv"
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 1. Clone this repository:
 
@@ -116,7 +118,7 @@ notebook/data-science-project-dev-salary-satisfaction-analysis.ipynb
 
 ---
 
-## 🔍 Methodology
+## Methodology
 
 ### **1. Data Cleaning**
 - Handling missing values  
@@ -151,7 +153,7 @@ notebook/data-science-project-dev-salary-satisfaction-analysis.ipynb
 
 ---
 
-## 📈 Key Results
+## Key Results
 
 - **Country is the strongest driver of salary**, even when controlling for experience.  
 - **Experience increases salary but at a decreasing rate** after several years.  
@@ -167,7 +169,7 @@ Full details are available in the notebook.
 
 ---
 
-## 📊 Dataset Characteristics
+## Dataset Characteristics
 
 - ~90,000 developer responses  
 - 170+ survey columns  
@@ -176,13 +178,13 @@ Full details are available in the notebook.
 
 ---
 
-## 👤 Author
+## Author
 
 **Camila Fonseca**  
-🔗 LinkedIn: https://www.linkedin.com/in/camila-fonseca/
+LinkedIn: https://www.linkedin.com/in/camila-fonseca/
 
 ---
 
-## 📄 License
+## License
 
 This project is open source under the **MIT License**.
