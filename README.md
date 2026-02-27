@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="github-banner.png" alt="Stack Overflow Survey 2025 – Dev Salary & Job Satisfaction Analysis" width="100%">
-</p>
-<br>
-
 # Developer Salary & Job Satisfaction Analysis
 
 **Data Science Project — Stack Overflow Developer Survey**
